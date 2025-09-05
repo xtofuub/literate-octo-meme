@@ -1,2 +1,1 @@
-smtp.example.com|587|user@example.com|password123
-smtp.another.com|465|admin@another.com|securepass
+pro.eu.turbo-smtp.com|25|orpopetteri358@gmail.com|b9y9kgip
